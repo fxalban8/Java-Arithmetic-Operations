@@ -7,6 +7,7 @@ public class Main_Class {
 		System.out.println("x=5 y=6");
 		System.out.println("Adding...");
 		System.out.println(5+6);
+		System.out.println("Now, let's do the substraction...");
 	}
 
 }
